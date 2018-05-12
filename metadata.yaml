@@ -1,0 +1,39 @@
+_repo: The-Foreign-Hand-Tie_30497
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barberis
+    gutenberg_agent_id: '34532'
+    url: http://www.gutenberg.org/2009/agents/34532
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Garret, Randall
+    - Jorgensen, Ivar
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telepathy -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Spy stories'
+- !lcsh 'Science fiction'
+title: The Foreign Hand Tie
+url: http://www.gutenberg.org/ebooks/30497
